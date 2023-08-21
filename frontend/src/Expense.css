@@ -1,0 +1,46 @@
+.breadcrumb{
+    margin: 5px;
+    padding: 5px;
+    background-color: #C0C0C0 ;
+    color:#007D82;
+    border-radius: 5px;
+}
+
+.breadcrumb a{
+    text-decoration: none;
+    color:#1967D2;
+    user-select: none;
+}
+
+.button {
+    margin:5px;
+    height:50px;
+    width: 150px;
+}
+.button a {
+    text-decoration: none;
+    color:white;
+    white-space: nowrap
+}
+
+.col1{
+   padding:0;
+}
+.col2{
+    padding:0;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.formContainer{
+    margin:5px;
+    padding:10px;
+    border:1px solid #c7bfbf;
+    border-radius: 4px;
+    box-shadow: 5px 5px 5px rgb(0,0,0,0.2);
+}
+
+.form{
+    padding-bottom: 10px;
+}
